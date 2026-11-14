@@ -1,0 +1,234 @@
+{
+  "schema": 3,
+  "entry_id": "entries/apart-epistemics",
+  "source": "entry-repo",
+  "signature_digest": "3d4f1654c788968733bcc34e63900495ab0bb23811808f5187124eea0b03cb7b",
+  "file_count": 26,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "9cce0f193a27a99652483f566ece4a3302164b13e33785ec777f41041f7dd435",
+      "rule": "exact-file",
+      "keys": [
+        ".gitignore"
+      ]
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "d6fbdb9ce6eca2b6a542f0753d129a914b1c51590c4ac5da09e64f29e6a7f301",
+      "rule": "exact-file",
+      "keys": [
+        "LICENSE"
+      ]
+    },
+    {
+      "path": "README.md",
+      "sha256": "601bf223835447b88480bd818136c9be18d2badc40233cda9ee53ad59c97943e",
+      "rule": "exact-file",
+      "keys": [
+        "README.md"
+      ]
+    },
+    {
+      "path": "data/items.jsonl",
+      "sha256": "11e2591a56c87e38151e2087685c23461f9471e24c2f2b17c92497df4e33f677",
+      "rule": "dir-code-ext",
+      "keys": [
+        "data/",
+        ".jsonl"
+      ]
+    },
+    {
+      "path": "data/items_e4b.jsonl",
+      "sha256": "734d4d369b3c1215d323cbb30667dbd6cb0426ca5427e259c7cfa5200acb4ae7",
+      "rule": "dir-code-ext",
+      "keys": [
+        "data/",
+        ".jsonl"
+      ]
+    },
+    {
+      "path": "figures/tradeoff.svg",
+      "sha256": "f007eb52fc18345c987ddc26f03a54d73fc30d4a8ab5f1323be2ae51784ed0e7",
+      "rule": "exact-file",
+      "keys": [
+        "figures/tradeoff.svg"
+      ]
+    },
+    {
+      "path": "notes/audit_e3.md",
+      "sha256": "33d4b83eedd833387300c48260a972aafcddb565f01b53d0661487111dac95f8",
+      "rule": "exact-file",
+      "keys": [
+        "notes/audit_e3.md"
+      ]
+    },
+    {
+      "path": "notes/audit_e4.md",
+      "sha256": "457538be8e7d732d79b0bea69eb72857053ac61c3d70491397f0e920aa9cd74f",
+      "rule": "exact-file",
+      "keys": [
+        "notes/audit_e4.md"
+      ]
+    },
+    {
+      "path": "notes/references.md",
+      "sha256": "7de48b749304c15bef97d5480b8c62abb8b8587c5e9af55b98e0126a0f14d1c7",
+      "rule": "exact-file",
+      "keys": [
+        "notes/references.md"
+      ]
+    },
+    {
+      "path": "report/report.html",
+      "sha256": "5ddf50e0347ba7f0d9f60ac5ca953344f5dddaab284f4029f4addfb7c41a74a2",
+      "rule": "exact-file",
+      "keys": [
+        "report/report.html"
+      ]
+    },
+    {
+      "path": "report/report.pdf",
+      "sha256": "021ddeaf48691a36040d9fbf352a488a956b58ec2acc6a5c3472b3dea553f49a",
+      "rule": "exact-file",
+      "keys": [
+        "report/report.pdf"
+      ]
+    },
+    {
+      "path": "results/analysis.json",
+      "sha256": "9e7135d56e3b028cb8424c726bbb89dd33893c479da54ff786d4ac51d02a1718",
+      "rule": "dir-code-ext",
+      "keys": [
+        "results/",
+        ".json"
+      ]
+    },
+    {
+      "path": "results/raw/llamacpp_gemma4-26b-a4b.jsonl",
+      "sha256": "70b6877622dbf9f7ea46d8e14dc4348c25de5dfb5e50341838bb4a1f5074e74e",
+      "rule": "dir-code-ext",
+      "keys": [
+        "results/",
+        ".jsonl"
+      ]
+    },
+    {
+      "path": "results/raw/llamacpp_gemma4-26b-a4b_e4b.jsonl",
+      "sha256": "28b0045c44deee654dd45bc440cd08bdffb15f264f5ffb08fe53a30e6ea67168",
+      "rule": "dir-code-ext",
+      "keys": [
+        "results/",
+        ".jsonl"
+      ]
+    },
+    {
+      "path": "results/raw/ollama_gemma2_2b.jsonl",
+      "sha256": "9d804c7764785f31d5db5602941329c749dfd972061128a75619cb31306b495e",
+      "rule": "dir-code-ext",
+      "keys": [
+        "results/",
+        ".jsonl"
+      ]
+    },
+    {
+      "path": "results/raw/ollama_gemma2_9b.jsonl",
+      "sha256": "bae60eb38eaa74d305183dc8b7eb299943dc5fb911fb59d568f6325b6648a744",
+      "rule": "dir-code-ext",
+      "keys": [
+        "results/",
+        ".jsonl"
+      ]
+    },
+    {
+      "path": "results/raw/ollama_qwen3.5_latest.jsonl",
+      "sha256": "848d651f45d8a7614de0905c1d2cfa97c675445b169ddbb5e575bc8f8b409b06",
+      "rule": "dir-code-ext",
+      "keys": [
+        "results/",
+        ".jsonl"
+      ]
+    },
+    {
+      "path": "results/summary.json",
+      "sha256": "998bf30b4d31711db6c150d260f7a6443bada4346ec9f74b1fae8b2d65c150bf",
+      "rule": "dir-code-ext",
+      "keys": [
+        "results/",
+        ".json"
+      ]
+    },
+    {
+      "path": "src/analyze.py",
+      "sha256": "364cad038eaf584bc547cf00af94eb1a7965c08557883424e19567e0386eb65a",
+      "rule": "dir-code-ext",
+      "keys": [
+        "src/",
+        ".py"
+      ]
+    },
+    {
+      "path": "src/backends.py",
+      "sha256": "77745b35b5252f5335f48a385960af0a2d5dc8da5aad681c005eb9e93acd0e8f",
+      "rule": "dir-code-ext",
+      "keys": [
+        "src/",
+        ".py"
+      ]
+    },
+    {
+      "path": "src/build_e4b.py",
+      "sha256": "daeea9bc7a37c17d6c84f914bcc89acb2ed5e87607e67ccdfb280a6e1733c1d4",
+      "rule": "dir-code-ext",
+      "keys": [
+        "src/",
+        ".py"
+      ]
+    },
+    {
+      "path": "src/build_items.py",
+      "sha256": "5d9fa8e7db8a8f6e787d08994eb153942380c32dca3bf88b714fdad4f0d7bb25",
+      "rule": "dir-code-ext",
+      "keys": [
+        "src/",
+        ".py"
+      ]
+    },
+    {
+      "path": "src/make_tables.py",
+      "sha256": "00daa85359188df0fc7071619453e5a71c8267db1bdd637c5abd435e98fe838b",
+      "rule": "dir-code-ext",
+      "keys": [
+        "src/",
+        ".py"
+      ]
+    },
+    {
+      "path": "src/protocols.py",
+      "sha256": "96abcd63e79f0263e369adefc53398fd632c981b10a064212897ffabd22c49d4",
+      "rule": "dir-code-ext",
+      "keys": [
+        "src/",
+        ".py"
+      ]
+    },
+    {
+      "path": "src/run.py",
+      "sha256": "0f84677c167888036ac29bee0a0f08b0a3ffd274b6192b3f4c5c9cbe46f3cc27",
+      "rule": "dir-code-ext",
+      "keys": [
+        "src/",
+        ".py"
+      ]
+    },
+    {
+      "path": "src/score.py",
+      "sha256": "496daf1d4810742a07c41b4a3e2f51bba080e7c51be1b211320a4491d959af98",
+      "rule": "dir-code-ext",
+      "keys": [
+        "src/",
+        ".py"
+      ]
+    }
+  ]
+}

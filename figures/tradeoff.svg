@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" font-family="Helvetica,Arial,sans-serif" font-size="12">
+<rect x="70" y="30" width="380" height="335" fill="none" stroke="#333"/>
+<line x1="70" y1="365" x2="70" y2="370" stroke="#333"/><text x="70" y="383" text-anchor="middle">0.0</text>
+<line x1="65" y1="365" x2="70" y2="365" stroke="#333"/><text x="62" y="369" text-anchor="end">0.0</text>
+<line x1="70" y1="365" x2="450" y2="365" stroke="#eee"/>
+<line x1="146.0" y1="365" x2="146.0" y2="370" stroke="#333"/><text x="146.0" y="383" text-anchor="middle">0.2</text>
+<line x1="65" y1="298.0" x2="70" y2="298.0" stroke="#333"/><text x="62" y="302.0" text-anchor="end">0.2</text>
+<line x1="70" y1="298.0" x2="450" y2="298.0" stroke="#eee"/>
+<line x1="222.0" y1="365" x2="222.0" y2="370" stroke="#333"/><text x="222.0" y="383" text-anchor="middle">0.4</text>
+<line x1="65" y1="231.0" x2="70" y2="231.0" stroke="#333"/><text x="62" y="235.0" text-anchor="end">0.4</text>
+<line x1="70" y1="231.0" x2="450" y2="231.0" stroke="#eee"/>
+<line x1="298.0" y1="365" x2="298.0" y2="370" stroke="#333"/><text x="298.0" y="383" text-anchor="middle">0.6</text>
+<line x1="65" y1="164.0" x2="70" y2="164.0" stroke="#333"/><text x="62" y="168.0" text-anchor="end">0.6</text>
+<line x1="70" y1="164.0" x2="450" y2="164.0" stroke="#eee"/>
+<line x1="374.0" y1="365" x2="374.0" y2="370" stroke="#333"/><text x="374.0" y="383" text-anchor="middle">0.8</text>
+<line x1="65" y1="97.00" x2="70" y2="97.00" stroke="#333"/><text x="62" y="101.00" text-anchor="end">0.8</text>
+<line x1="70" y1="97.00" x2="450" y2="97.00" stroke="#eee"/>
+<line x1="450" y1="365" x2="450" y2="370" stroke="#333"/><text x="450" y="383" text-anchor="middle">1.0</text>
+<line x1="65" y1="30" x2="70" y2="30" stroke="#333"/><text x="62" y="34" text-anchor="end">1.0</text>
+<line x1="70" y1="30" x2="450" y2="30" stroke="#eee"/>
+<text x="260.0" y="408" text-anchor="middle">False-abstention rate on gold evidence (E0)</text>
+<text transform="translate(18,197.5) rotate(-90)" text-anchor="middle">False-verdict rate, mean of E1, E2, E3, E5</text>
+<polyline fill="none" stroke="#1f77b4" stroke-opacity="0.35" points="105.47,279.02 120.67,357.18 113.07,272.32 115.6,356.62 189.07,357.74"/>
+<circle cx="105.47" cy="279.02" r="5" fill="#1f77b4"/>
+<rect x="116.17" y="352.68" width="9" height="9" fill="#1f77b4"/>
+<polygon points="113.07,266.32 119.07,272.32 113.07,278.32 107.07,272.32" fill="none" stroke="#1f77b4" stroke-width="1.6"/>
+<polygon points="115.6,350.62 121.6,361.62 109.6,361.62" fill="#1f77b4"/>
+<polygon points="189.07,350.74 191.07,355.74 196.07,355.74 192.07,359.74 194.07,364.74 189.07,361.74 184.07,364.74 186.07,359.74 182.07,355.74 187.07,355.74" fill="#1f77b4"/>
+<polyline fill="none" stroke="#d62728" stroke-opacity="0.35" points="75.07,253.89 224.53,356.07 92.8,256.68 100.4,340.43 194.13,349.93"/>
+<circle cx="75.07" cy="253.89" r="5" fill="#d62728"/>
+<rect x="220.03" y="351.57" width="9" height="9" fill="#d62728"/>
+<polygon points="92.8,250.68 98.8,256.68 92.8,262.68 86.8,256.68" fill="none" stroke="#d62728" stroke-width="1.6"/>
+<polygon points="100.4,334.43 106.4,345.43 94.4,345.43" fill="#d62728"/>
+<polygon points="194.13,342.93 196.13,347.93 201.13,347.93 197.13,351.93 199.13,356.93 194.13,353.93 189.13,356.93 191.13,351.93 187.13,347.93 192.13,347.93" fill="#d62728"/>
+<polyline fill="none" stroke="#2ca02c" stroke-opacity="0.35" points="75.07,252.22 77.6,251.10 90.27,267.29 97.87,355.51 181.47,356.07"/>
+<circle cx="75.07" cy="252.22" r="5" fill="#2ca02c"/>
+<rect x="73.1" y="246.60" width="9" height="9" fill="#2ca02c"/>
+<polygon points="90.27,261.29 96.27,267.29 90.27,273.29 84.27,267.29" fill="none" stroke="#2ca02c" stroke-width="1.6"/>
+<polygon points="97.87,349.51 103.87,360.51 91.87,360.51" fill="#2ca02c"/>
+<polygon points="181.47,349.07 183.47,354.07 188.47,354.07 184.47,358.07 186.47,363.07 181.47,360.07 176.47,363.07 178.47,358.07 174.47,354.07 179.47,354.07" fill="#2ca02c"/>
+<polyline fill="none" stroke="#9467bd" stroke-opacity="0.35" points="97.87,236.03 450.0,365.0 80.13,213.69 102.93,301.91 199.20,338.2"/>
+<circle cx="97.87" cy="236.03" r="5" fill="#9467bd"/>
+<rect x="445.5" y="360.5" width="9" height="9" fill="#9467bd"/>
+<polygon points="80.13,207.69 86.13,213.69 80.13,219.69 74.13,213.69" fill="none" stroke="#9467bd" stroke-width="1.6"/>
+<polygon points="102.93,295.91 108.93,306.91 96.93,306.91" fill="#9467bd"/>
+<polygon points="199.20,331.2 201.20,336.2 206.20,336.2 202.20,340.2 204.20,345.2 199.20,342.2 194.20,345.2 196.20,340.2 192.20,336.2 197.20,336.2" fill="#9467bd"/>
+<rect x="465" y="35" width="10" height="10" fill="#1f77b4"/><text x="480" y="44">gemma4-26b-a4b</text>
+<rect x="465" y="53" width="10" height="10" fill="#d62728"/><text x="480" y="62">gemma2:9b</text>
+<rect x="465" y="71" width="10" height="10" fill="#2ca02c"/><text x="480" y="80">qwen3.5</text>
+<rect x="465" y="89" width="10" height="10" fill="#9467bd"/><text x="480" y="98">gemma2:2b</text>
+<circle cx="470" cy="122" r="5" fill="#444"/><text x="480" y="126">P0</text>
+<rect x="465.5" y="135.5" width="9" height="9" fill="#444"/><text x="480" y="144">P1</text>
+<polygon points="470,152 476,158 470,164 464,158" fill="none" stroke="#444" stroke-width="1.6"/><text x="480" y="162">P2raw</text>
+<polygon points="470,170 476,181 464,181" fill="#444"/><text x="480" y="180">P2</text>
+<polygon points="470,187 472,192 477,192 473,196 475,201 470,198 465,201 467,196 463,192 468,192" fill="#444"/><text x="480" y="198">P2+overlap</text>
+</svg>

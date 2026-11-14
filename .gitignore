@@ -1,0 +1,5 @@
+_download/
+results/logs/
+results/pilot/
+results/pilot_summary.json
+__pycache__/

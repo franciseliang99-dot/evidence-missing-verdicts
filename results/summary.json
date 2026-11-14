@@ -1,0 +1,1852 @@
+[
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P0",
+  "state": "E0",
+  "n": 150,
+  "verdict": 136,
+  "correct": 129,
+  "unparsed": 0,
+  "accuracy": [
+   0.86,
+   0.7954465685598426,
+   0.90657421125524
+  ],
+  "false_abstain": [
+   0.09333333333333334,
+   0.056411348659597745,
+   0.15056517784558682
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P0",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P0",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P0",
+  "state": "E3",
+  "n": 150,
+  "verdict": 15,
+  "correct": 135,
+  "unparsed": 0,
+  "false_verdict": [
+   0.1,
+   0.06154083683597323,
+   0.15843607448060176
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P0",
+  "state": "E4",
+  "n": 150,
+  "verdict": 58,
+  "correct": 92,
+  "unparsed": 0,
+  "false_verdict": [
+   0.38666666666666666,
+   0.3124898876515768,
+   0.4665035705547861
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P0",
+  "state": "E4b",
+  "n": 150,
+  "verdict": 39,
+  "correct": 111,
+  "unparsed": 0,
+  "false_verdict": [
+   0.26,
+   0.19642034813317322,
+   0.33556579865677183
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P0",
+  "state": "E5",
+  "n": 150,
+  "verdict": 139,
+  "correct": 11,
+  "unparsed": 0,
+  "false_verdict": [
+   0.9266666666666666,
+   0.873463014734016,
+   0.9585616131949707
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P1",
+  "state": "E0",
+  "n": 150,
+  "verdict": 130,
+  "correct": 120,
+  "unparsed": 0,
+  "accuracy": [
+   0.8,
+   0.7288572445686363,
+   0.8561600719439326
+  ],
+  "false_abstain": [
+   0.13333333333333333,
+   0.08799732892586415,
+   0.19698150644766288
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P1",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P1",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P1",
+  "state": "E3",
+  "n": 150,
+  "verdict": 14,
+  "correct": 136,
+  "unparsed": 0,
+  "false_verdict": [
+   0.09333333333333334,
+   0.056411348659597745,
+   0.15056517784558682
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P1",
+  "state": "E4",
+  "n": 150,
+  "verdict": 49,
+  "correct": 101,
+  "unparsed": 0,
+  "false_verdict": [
+   0.32666666666666666,
+   0.2567570339087464,
+   0.40523296099510275
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P1",
+  "state": "E4b",
+  "n": 150,
+  "verdict": 28,
+  "correct": 122,
+  "unparsed": 0,
+  "false_verdict": [
+   0.18666666666666668,
+   0.13242330549709996,
+   0.25655860836755046
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P1",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2",
+  "state": "E0",
+  "n": 150,
+  "verdict": 132,
+  "correct": 124,
+  "unparsed": 0,
+  "accuracy": [
+   0.8266666666666667,
+   0.7581386789428641,
+   0.8788801768152663
+  ],
+  "false_abstain": [
+   0.12,
+   0.0772684043967938,
+   0.18170966135395242
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2",
+  "state": "E3",
+  "n": 150,
+  "verdict": 15,
+  "correct": 135,
+  "unparsed": 0,
+  "false_verdict": [
+   0.1,
+   0.06154083683597323,
+   0.15843607448060176
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2",
+  "state": "E4",
+  "n": 150,
+  "verdict": 53,
+  "correct": 97,
+  "unparsed": 0,
+  "false_verdict": [
+   0.35333333333333333,
+   0.28137142404545956,
+   0.4326201101039513
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2",
+  "state": "E4b",
+  "n": 150,
+  "verdict": 34,
+  "correct": 116,
+  "unparsed": 0,
+  "false_verdict": [
+   0.22666666666666666,
+   0.1669808346497373,
+   0.3000033880832556
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2+overlap",
+  "state": "E0",
+  "n": 150,
+  "verdict": 103,
+  "correct": 97,
+  "unparsed": 0,
+  "accuracy": [
+   0.6466666666666666,
+   0.5673798898960487,
+   0.7186285759545403
+  ],
+  "false_abstain": [
+   0.31333333333333335,
+   0.24454798684647927,
+   0.3914412384345891
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2+overlap",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2+overlap",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2+overlap",
+  "state": "E3",
+  "n": 150,
+  "verdict": 13,
+  "correct": 137,
+  "unparsed": 0,
+  "false_verdict": [
+   0.08666666666666667,
+   0.05134668856955886,
+   0.1426294531242353
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2+overlap",
+  "state": "E4",
+  "n": 150,
+  "verdict": 36,
+  "correct": 114,
+  "unparsed": 0,
+  "false_verdict": [
+   0.24,
+   0.17869214008148449,
+   0.3142928522742892
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2+overlap",
+  "state": "E4b",
+  "n": 150,
+  "verdict": 20,
+  "correct": 130,
+  "unparsed": 0,
+  "false_verdict": [
+   0.13333333333333333,
+   0.08799732892586415,
+   0.19698150644766288
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2+overlap",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2raw",
+  "state": "E0",
+  "n": 150,
+  "verdict": 133,
+  "correct": 125,
+  "unparsed": 0,
+  "accuracy": [
+   0.8333333333333334,
+   0.7655327510904788,
+   0.8844864894790421
+  ],
+  "false_abstain": [
+   0.11333333333333333,
+   0.07197363837164525,
+   0.17400404256771052
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2raw",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2raw",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2raw",
+  "state": "E3",
+  "n": 150,
+  "verdict": 16,
+  "correct": 134,
+  "unparsed": 0,
+  "false_verdict": [
+   0.10666666666666667,
+   0.06672979536363804,
+   0.16624750076432737
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2raw",
+  "state": "E4",
+  "n": 150,
+  "verdict": 53,
+  "correct": 97,
+  "unparsed": 0,
+  "false_verdict": [
+   0.35333333333333333,
+   0.28137142404545956,
+   0.4326201101039513
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2raw",
+  "state": "E4b",
+  "n": 150,
+  "verdict": 34,
+  "correct": 116,
+  "unparsed": 0,
+  "false_verdict": [
+   0.22666666666666666,
+   0.1669808346497373,
+   0.3000033880832556
+  ]
+ },
+ {
+  "model": "llamacpp:gemma4-26b-a4b",
+  "condition": "P2raw",
+  "state": "E5",
+  "n": 150,
+  "verdict": 150,
+  "correct": 0,
+  "unparsed": 0,
+  "false_verdict": [
+   1.0,
+   0.9750288608542812,
+   1.0
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P0",
+  "state": "E0",
+  "n": 150,
+  "verdict": 139,
+  "correct": 85,
+  "unparsed": 0,
+  "accuracy": [
+   0.5666666666666667,
+   0.4866784070665957,
+   0.6433254410473084
+  ],
+  "false_abstain": [
+   0.07333333333333333,
+   0.04143838680502927,
+   0.12653698526598406
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P0",
+  "state": "E1",
+  "n": 150,
+  "verdict": 3,
+  "correct": 147,
+  "unparsed": 0,
+  "false_verdict": [
+   0.02,
+   0.006824627715648315,
+   0.05714766586424165
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P0",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P0",
+  "state": "E3",
+  "n": 150,
+  "verdict": 81,
+  "correct": 69,
+  "unparsed": 0,
+  "false_verdict": [
+   0.54,
+   0.46023676745464287,
+   0.6177655414136997
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P0",
+  "state": "E4",
+  "n": 150,
+  "verdict": 112,
+  "correct": 38,
+  "unparsed": 0,
+  "false_verdict": [
+   0.7466666666666667,
+   0.6715044398939715,
+   0.809509798127474
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P0",
+  "state": "E5",
+  "n": 150,
+  "verdict": 147,
+  "correct": 3,
+  "unparsed": 0,
+  "false_verdict": [
+   0.98,
+   0.9428523341357583,
+   0.9931753722843516
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P1",
+  "state": "E0",
+  "n": 150,
+  "verdict": 0,
+  "correct": 0,
+  "unparsed": 0,
+  "accuracy": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ],
+  "false_abstain": [
+   1.0,
+   0.9750288608542812,
+   1.0
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P1",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P1",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P1",
+  "state": "E3",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P1",
+  "state": "E4",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P1",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2",
+  "state": "E0",
+  "n": 150,
+  "verdict": 137,
+  "correct": 79,
+  "unparsed": 0,
+  "accuracy": [
+   0.5266666666666666,
+   0.4470991159595076,
+   0.6049024232860539
+  ],
+  "false_abstain": [
+   0.08666666666666667,
+   0.05134668856955886,
+   0.1426294531242353
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2",
+  "state": "E3",
+  "n": 150,
+  "verdict": 113,
+  "correct": 37,
+  "unparsed": 0,
+  "false_verdict": [
+   0.7533333333333333,
+   0.6785952428848271,
+   0.8154193799480086
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2",
+  "state": "E4",
+  "n": 150,
+  "verdict": 114,
+  "correct": 36,
+  "unparsed": 0,
+  "false_verdict": [
+   0.76,
+   0.6857071477257108,
+   0.8213078599185155
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2+overlap",
+  "state": "E0",
+  "n": 150,
+  "verdict": 99,
+  "correct": 55,
+  "unparsed": 0,
+  "accuracy": [
+   0.36666666666666664,
+   0.293773196710732,
+   0.4462191070614596
+  ],
+  "false_abstain": [
+   0.34,
+   0.2690321465825542,
+   0.4189586179440758
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2+overlap",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2+overlap",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2+overlap",
+  "state": "E3",
+  "n": 150,
+  "verdict": 48,
+  "correct": 102,
+  "unparsed": 0,
+  "false_verdict": [
+   0.32,
+   0.25064412359702404,
+   0.39834548649543466
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2+overlap",
+  "state": "E4",
+  "n": 150,
+  "verdict": 61,
+  "correct": 89,
+  "unparsed": 0,
+  "false_verdict": [
+   0.4066666666666667,
+   0.33133978704521405,
+   0.48665482559532014
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2+overlap",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2raw",
+  "state": "E0",
+  "n": 150,
+  "verdict": 146,
+  "correct": 82,
+  "unparsed": 0,
+  "accuracy": [
+   0.5466666666666666,
+   0.46682631163294025,
+   0.6241763820467925
+  ],
+  "false_abstain": [
+   0.02666666666666667,
+   0.010417772291104764,
+   0.06655490610017561
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2raw",
+  "state": "E1",
+  "n": 150,
+  "verdict": 5,
+  "correct": 145,
+  "unparsed": 0,
+  "false_verdict": [
+   0.03333333333333333,
+   0.014320220695575196,
+   0.07565284250709559
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2raw",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2raw",
+  "state": "E3",
+  "n": 150,
+  "verdict": 116,
+  "correct": 34,
+  "unparsed": 0,
+  "false_verdict": [
+   0.7733333333333333,
+   0.6999966119167443,
+   0.8330191653502627
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2raw",
+  "state": "E4",
+  "n": 150,
+  "verdict": 123,
+  "correct": 27,
+  "unparsed": 0,
+  "false_verdict": [
+   0.82,
+   0.7507753195800668,
+   0.8732431513666732
+  ]
+ },
+ {
+  "model": "ollama:gemma2:2b",
+  "condition": "P2raw",
+  "state": "E5",
+  "n": 150,
+  "verdict": 150,
+  "correct": 0,
+  "unparsed": 0,
+  "false_verdict": [
+   1.0,
+   0.9750288608542812,
+   1.0
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P0",
+  "state": "E0",
+  "n": 150,
+  "verdict": 148,
+  "correct": 120,
+  "unparsed": 0,
+  "accuracy": [
+   0.8,
+   0.7288572445686363,
+   0.8561600719439326
+  ],
+  "false_abstain": [
+   0.013333333333333334,
+   0.0036640523882232115,
+   0.047307856380276334
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P0",
+  "state": "E1",
+  "n": 150,
+  "verdict": 1,
+  "correct": 149,
+  "unparsed": 0,
+  "false_verdict": [
+   0.006666666666666667,
+   0.0011777710231334546,
+   0.036793752933975674
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P0",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P0",
+  "state": "E3",
+  "n": 150,
+  "verdict": 49,
+  "correct": 101,
+  "unparsed": 0,
+  "false_verdict": [
+   0.32666666666666666,
+   0.2567570339087464,
+   0.40523296099510275
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P0",
+  "state": "E4",
+  "n": 150,
+  "verdict": 97,
+  "correct": 53,
+  "unparsed": 0,
+  "false_verdict": [
+   0.6466666666666666,
+   0.5673798898960487,
+   0.7186285759545403
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P0",
+  "state": "E5",
+  "n": 150,
+  "verdict": 149,
+  "correct": 1,
+  "unparsed": 0,
+  "false_verdict": [
+   0.9933333333333333,
+   0.9632062470660241,
+   0.9988222289768665
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P1",
+  "state": "E0",
+  "n": 150,
+  "verdict": 89,
+  "correct": 75,
+  "unparsed": 0,
+  "accuracy": [
+   0.5,
+   0.4209887046908502,
+   0.5790112953091499
+  ],
+  "false_abstain": [
+   0.4066666666666667,
+   0.33133978704521405,
+   0.48665482559532014
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P1",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P1",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P1",
+  "state": "E3",
+  "n": 150,
+  "verdict": 5,
+  "correct": 145,
+  "unparsed": 0,
+  "false_verdict": [
+   0.03333333333333333,
+   0.014320220695575196,
+   0.07565284250709559
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P1",
+  "state": "E4",
+  "n": 150,
+  "verdict": 18,
+  "correct": 132,
+  "unparsed": 0,
+  "false_verdict": [
+   0.12,
+   0.0772684043967938,
+   0.18170966135395242
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P1",
+  "state": "E5",
+  "n": 150,
+  "verdict": 11,
+  "correct": 139,
+  "unparsed": 0,
+  "false_verdict": [
+   0.07333333333333333,
+   0.04143838680502927,
+   0.12653698526598406
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2",
+  "state": "E0",
+  "n": 150,
+  "verdict": 138,
+  "correct": 85,
+  "unparsed": 0,
+  "accuracy": [
+   0.5666666666666667,
+   0.4866784070665957,
+   0.6433254410473084
+  ],
+  "false_abstain": [
+   0.08,
+   0.0463531819392169,
+   0.13462257494318683
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2",
+  "state": "E3",
+  "n": 150,
+  "verdict": 44,
+  "correct": 106,
+  "unparsed": 0,
+  "false_verdict": [
+   0.29333333333333333,
+   0.22636309522530063,
+   0.37062497562159646
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2",
+  "state": "E4",
+  "n": 150,
+  "verdict": 61,
+  "correct": 89,
+  "unparsed": 0,
+  "false_verdict": [
+   0.4066666666666667,
+   0.33133978704521405,
+   0.48665482559532014
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2+overlap",
+  "state": "E0",
+  "n": 150,
+  "verdict": 101,
+  "correct": 61,
+  "unparsed": 0,
+  "accuracy": [
+   0.4066666666666667,
+   0.33133978704521405,
+   0.48665482559532014
+  ],
+  "false_abstain": [
+   0.32666666666666666,
+   0.2567570339087464,
+   0.40523296099510275
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2+overlap",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2+overlap",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2+overlap",
+  "state": "E3",
+  "n": 150,
+  "verdict": 27,
+  "correct": 123,
+  "unparsed": 0,
+  "false_verdict": [
+   0.18,
+   0.1267568486333268,
+   0.24922468041993318
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2+overlap",
+  "state": "E4",
+  "n": 150,
+  "verdict": 37,
+  "correct": 113,
+  "unparsed": 0,
+  "false_verdict": [
+   0.24666666666666667,
+   0.18458062005199127,
+   0.3214047571151728
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2+overlap",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2raw",
+  "state": "E0",
+  "n": 150,
+  "verdict": 141,
+  "correct": 87,
+  "unparsed": 0,
+  "accuracy": [
+   0.58,
+   0.49998333511352705,
+   0.656021282623158
+  ],
+  "false_abstain": [
+   0.06,
+   0.031883682005327776,
+   0.11009092044290468
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2raw",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2raw",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2raw",
+  "state": "E3",
+  "n": 150,
+  "verdict": 44,
+  "correct": 106,
+  "unparsed": 0,
+  "false_verdict": [
+   0.29333333333333333,
+   0.22636309522530063,
+   0.37062497562159646
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2raw",
+  "state": "E4",
+  "n": 150,
+  "verdict": 63,
+  "correct": 87,
+  "unparsed": 0,
+  "false_verdict": [
+   0.42,
+   0.34397871737684205,
+   0.5000166648864729
+  ]
+ },
+ {
+  "model": "ollama:gemma2:9b",
+  "condition": "P2raw",
+  "state": "E5",
+  "n": 150,
+  "verdict": 150,
+  "correct": 0,
+  "unparsed": 0,
+  "false_verdict": [
+   1.0,
+   0.9750288608542812,
+   1.0
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P0",
+  "state": "E0",
+  "n": 150,
+  "verdict": 148,
+  "correct": 132,
+  "unparsed": 0,
+  "accuracy": [
+   0.88,
+   0.8182903386460476,
+   0.9227315956032063
+  ],
+  "false_abstain": [
+   0.013333333333333334,
+   0.0036640523882232115,
+   0.047307856380276334
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P0",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P0",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P0",
+  "state": "E3",
+  "n": 150,
+  "verdict": 52,
+  "correct": 98,
+  "unparsed": 0,
+  "false_verdict": [
+   0.3466666666666667,
+   0.27519387418426633,
+   0.4257972751537541
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P0",
+  "state": "E4",
+  "n": 150,
+  "verdict": 107,
+  "correct": 43,
+  "unparsed": 0,
+  "false_verdict": [
+   0.7133333333333334,
+   0.6363493407951355,
+   0.7796629731693578
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P0",
+  "state": "E5",
+  "n": 150,
+  "verdict": 150,
+  "correct": 0,
+  "unparsed": 0,
+  "false_verdict": [
+   1.0,
+   0.9750288608542812,
+   1.0
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P1",
+  "state": "E0",
+  "n": 150,
+  "verdict": 147,
+  "correct": 126,
+  "unparsed": 0,
+  "accuracy": [
+   0.84,
+   0.772958942656478,
+   0.8900606827244333
+  ],
+  "false_abstain": [
+   0.02,
+   0.006824627715648315,
+   0.05714766586424165
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P1",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P1",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P1",
+  "state": "E3",
+  "n": 150,
+  "verdict": 55,
+  "correct": 95,
+  "unparsed": 0,
+  "false_verdict": [
+   0.36666666666666664,
+   0.293773196710732,
+   0.4462191070614596
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P1",
+  "state": "E4",
+  "n": 150,
+  "verdict": 106,
+  "correct": 44,
+  "unparsed": 0,
+  "false_verdict": [
+   0.7066666666666667,
+   0.6293750243784035,
+   0.7736369047746994
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P1",
+  "state": "E5",
+  "n": 150,
+  "verdict": 149,
+  "correct": 1,
+  "unparsed": 0,
+  "false_verdict": [
+   0.9933333333333333,
+   0.9632062470660241,
+   0.9988222289768665
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2",
+  "state": "E0",
+  "n": 150,
+  "verdict": 139,
+  "correct": 127,
+  "unparsed": 0,
+  "accuracy": [
+   0.8466666666666667,
+   0.7804188029480452,
+   0.8956012072442565
+  ],
+  "false_abstain": [
+   0.07333333333333333,
+   0.04143838680502927,
+   0.12653698526598406
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2",
+  "state": "E3",
+  "n": 150,
+  "verdict": 17,
+  "correct": 133,
+  "unparsed": 0,
+  "false_verdict": [
+   0.11333333333333333,
+   0.07197363837164525,
+   0.17400404256771052
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2",
+  "state": "E4",
+  "n": 150,
+  "verdict": 58,
+  "correct": 92,
+  "unparsed": 0,
+  "false_verdict": [
+   0.38666666666666666,
+   0.3124898876515768,
+   0.4665035705547861
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2+overlap",
+  "state": "E0",
+  "n": 150,
+  "verdict": 106,
+  "correct": 98,
+  "unparsed": 0,
+  "accuracy": [
+   0.6533333333333333,
+   0.5742027248462458,
+   0.7248061258157337
+  ],
+  "false_abstain": [
+   0.29333333333333333,
+   0.22636309522530063,
+   0.37062497562159646
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2+overlap",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2+overlap",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2+overlap",
+  "state": "E3",
+  "n": 150,
+  "verdict": 16,
+  "correct": 134,
+  "unparsed": 0,
+  "false_verdict": [
+   0.10666666666666667,
+   0.06672979536363804,
+   0.16624750076432737
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2+overlap",
+  "state": "E4",
+  "n": 150,
+  "verdict": 38,
+  "correct": 112,
+  "unparsed": 0,
+  "false_verdict": [
+   0.25333333333333335,
+   0.190490201872526,
+   0.32849556010602865
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2+overlap",
+  "state": "E5",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2raw",
+  "state": "E0",
+  "n": 150,
+  "verdict": 142,
+  "correct": 130,
+  "unparsed": 0,
+  "accuracy": [
+   0.8666666666666667,
+   0.8030184935523371,
+   0.9120026710741359
+  ],
+  "false_abstain": [
+   0.05333333333333334,
+   0.027269212890132462,
+   0.1017050047467096
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2raw",
+  "state": "E1",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2raw",
+  "state": "E2",
+  "n": 150,
+  "verdict": 0,
+  "correct": 150,
+  "unparsed": 0,
+  "false_verdict": [
+   0.0,
+   0.0,
+   0.02497113914571871
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2raw",
+  "state": "E3",
+  "n": 150,
+  "verdict": 25,
+  "correct": 125,
+  "unparsed": 0,
+  "false_verdict": [
+   0.16666666666666666,
+   0.11551351052095787,
+   0.23446724890952125
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2raw",
+  "state": "E4",
+  "n": 150,
+  "verdict": 64,
+  "correct": 86,
+  "unparsed": 0,
+  "false_verdict": [
+   0.4266666666666667,
+   0.3503195687405146,
+   0.5066761983341909
+  ]
+ },
+ {
+  "model": "ollama:qwen3.5:latest",
+  "condition": "P2raw",
+  "state": "E5",
+  "n": 150,
+  "verdict": 150,
+  "correct": 0,
+  "unparsed": 0,
+  "false_verdict": [
+   1.0,
+   0.9750288608542812,
+   1.0
+  ]
+ }
+]
